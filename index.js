@@ -23,7 +23,7 @@ function iLoveTheBeatles(num){
     result += "I love the Beatless";
     num ++;
   }
-  while(num < 15)
+  while(num < 14)
   return "I love the Beatless!"
 }
 
